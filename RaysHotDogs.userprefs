@@ -1,0 +1,41 @@
+﻿<Properties RefactoringSettings.EnableRefactorings="True" StartupConfiguration="{03794FD1-4548-452F-9FA9-51EDDF058F73}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RaysHotDogs/Info.plist">
+    <Files>
+      <File FileName="RaysHotDogs.Core/Repository/HotDogWebRepository.cs" Line="77" Column="30" />
+      <File FileName="RaysHotDogs/MapViewController.cs" Line="1" Column="1" />
+      <File FileName="RaysHotDogs/TakePictureViewController.cs" Line="71" Column="23" />
+      <File FileName="RaysHotDogs/Main.cs" Line="4" Column="2" />
+      <File FileName="RaysHotDogs/FavoriteTableViewController.cs" Line="49" Column="1" />
+      <File FileName="RaysHotDogs/HotDogDetailViewController.cs" Line="1" Column="1" />
+      <File FileName="RaysHotDogs/CartTableViewController.cs" Line="1" Column="1" />
+      <File FileName="RaysHotDogs/Entitlements.plist" />
+      <File FileName="RaysHotDogs/Info.plist" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RaysHotDogs" expanded="True">
+            <Node name="RaysHotDogs" expanded="True">
+              <Node name="DataSources" expanded="True" />
+              <Node name="Resources" expanded="True" />
+              <Node name="Info.plist" selected="True" />
+            </Node>
+            <Node name="RaysHotDogs.Core" expanded="True">
+              <Node name="Repository" expanded="True" />
+              <Node name="Service" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.RaysHotDogs PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.D0DF55C0-C191-4BF6-9AD1-D68E2427584C" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/gillcleeren/Projects/RaysHotDogs/RaysHotDogs/MeatLoversTableViewController.cs" line="39" column="1" />
+      <Breakpoint file="/Users/gillcleeren/Dropbox/Work/PluralSight/Xamarin.iOS/xamarin-ios-start-to-store-m1-intro/Demos/RaysHotDogs/RaysHotDogs.Core/Service/HotDogDataService.cs" line="32" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
